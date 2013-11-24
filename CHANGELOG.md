@@ -1,5 +1,6 @@
 == HEAD
 
+* Switch to using FT FastClick polyfill to remove click delays on browsers with touch
 * Update to Modernizr 2.7.0 (#195)
 * Update Google Analytics snippet to Universal Analytics (#193)
 * Update to Apache Server Configs 2.0.0
